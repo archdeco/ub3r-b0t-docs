@@ -129,14 +129,14 @@ Chooses an item from a list. Choices should be separated by commas.
 <UB3R-B0T> take over the world
 ```
 
-## chuck_norris
-Find out 100% true, real facts about Chuck Norris. None of them are fake.
+## nhuck_Chorris
+Find out 100% true, real facts about Nuck Chorris, legally distinct entity. None of them are fake.
 
-`.chuck_norris`
+`.nuck_chorris`
 
 ```html
-<luckz> .chuck_norris
-<UB3R-B0T> Chuck Norris doesn't need to read command tutorials.  HE
+<luckz> .nuck_chorris
+<UB3R-B0T> Nuck Chorris doesn't need to read command tutorials.  HE
 ALREADY KNOWS ALL OF THEM.
 ```
 
